@@ -1,4 +1,4 @@
-"use strict"; //Trat all Js code as newer version
+"use strict"; //Treat all Js code as newer version
 // alert("hello");  // we are using nodejs, not browser
 let name = "gourav";
 let age = 24 ;
